@@ -3,14 +3,14 @@ title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-teaching-1
-venue: "University 1, Department"
+venue: "Guang Dong University of Technology, School of Art and Design"
 date: 2024-01-01
 location: "Guang Zhou, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Computer Network Technology
 ======
 
 Heading 2
