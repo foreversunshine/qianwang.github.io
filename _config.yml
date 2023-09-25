@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qian Wang / Personal Homepage"
+title                    : "Qian Wang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Qian Wang"
-description              : &description "Qian Wang is a beautiful girl"
-url                      : https://qianwang.github.io# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Inherit the wisdom of the wise of yore, Forge an age of peace forevermore."
+url                      : https://qianwang233.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "foreversunshine/qianwang.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "qianwang233/qianwang233.github.io"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qian Wang"
-  avatar           : "me.jpg"
-  bio              : "Inherit the wisdom of the wise of yore, Forge an age of peace forevermore."
+  name             : "Qian Wang (王倩）"
+  avatar           : "me.png"
+  bio              : "Guangdong University of Technology"
   location         : "China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=PSFLQrIAAAAJ&hl=zh-CN"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"https://scholar.google.com/citations?user=PSFLQrIAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "foreversunshine"
+  github           : "https://github.com/qianwang233"
   google_plus      :
   keybase          :
   instagram        :
