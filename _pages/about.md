@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Qian Wang is a lecturer with the [School of Art and Design](https://yssjxy.gdut.edu.cn/index.htm), [Guang Dong University of Technology](https://www.gdut.edu.cn). Before joining the [Guang Dong University of Technology](https://www.gdut.edu.cn), she worked as a research assistant at the School of Computing and a postdoctoral fellow at the School of Design, of The Hong Kong Polytechnic University, respectively. She obtained a Ph.D. in Computer Technology and Application from the [School of Computer Science and Engineering](https://www.must.edu.mo/fie) (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/) at [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. 
+Qian Wang is a lecturer with the [School of Art and Design](https://yssjxy.gdut.edu.cn/index.htm), [Guang Dong University of Technology](https://www.gdut.edu.cn). Before joining the [Guang Dong University of Technology](https://www.gdut.edu.cn), she worked as a research assistant at the School of Computing and a postdoctoral fellow at the School of Design, of The Hong Kong Polytechnic University, respectively. She obtained a Ph.D. in Computer Technology and Application from the [School of Computer Science and Engineering](https://www.must.edu.mo/fie) (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/)) at [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. 
 
 
 Research Interest
