@@ -45,8 +45,10 @@ Patents
 
 Connect me
 =========
+
 Email
 ------
+
 <anrogin@outlook.com>
 
 Follow me
