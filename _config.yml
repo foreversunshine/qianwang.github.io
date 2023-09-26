@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Qian Wang (王倩）"
   avatar           : "me.png"
-  bio              : "Guangdong University of Technology"
+  bio              : "Inherit the wisdom of the wise of yore, Forge an age of peace forevermore."
   location         : "China"
-  employer         :
+  employer         : "Guangdong University of Technology"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=PSFLQrIAAAAJ&hl=zh-CN"
-  email            :
+  email            : "qianwang@gdut.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
